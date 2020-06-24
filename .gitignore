@@ -107,3 +107,5 @@ Temporary Items
 .history
 
 # End of https://www.gitignore.io/api/macos,images,visualstudiocode
+.DS_Store
+.gitignore
